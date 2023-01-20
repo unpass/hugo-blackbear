@@ -1,6 +1,7 @@
 ![header](https://nate.unpass.net/images/unpass-bear-preview.png) 
 
 # about
+**[preview](https://nate.unpass.net/)**\
 personalized edits to [hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
 - custom header
 - black background
