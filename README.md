@@ -2,7 +2,7 @@
 
 # about
 **[preview](https://nate.unpass.net/)**\
-personalized edits to [hugo-bearblog](https://github.com/janraasch/hugo-bearblog)
+personalized edits to [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) (thanks Jan!)
 - custom header
 - black background
 - custom nav
